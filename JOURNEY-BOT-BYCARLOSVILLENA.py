@@ -1,3 +1,12 @@
+"""
+CREADO POR CARLOS RICARDO VILLENA CABREJOS
+¿Qué es lo que hace este programa?
+-Análisis de datos detallado
+-Monitorización en tiempo real
+-Informes automatizados
+-Obtención de los journeys de usuarios
+-Segmentación de usuarios
+"""
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 from tkinter import Tk, Label,  Text, Button, Frame, messagebox, filedialog, ttk, Scrollbar, VERTICAL, HORIZONTAL
